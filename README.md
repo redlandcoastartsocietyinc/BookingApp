@@ -2,7 +2,7 @@
 
 ## About
 
-This repository stores the Booking App source code, documentation, and public image assets.
+This repository stores the public image assets.
 
 ## Logo
 
